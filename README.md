@@ -37,7 +37,7 @@ Ambos foram treinados com validação cruzada e otimização de hiperparâmetros
 📈 6. Resultados
 Os dois modelos tiveram desempenho similar:
 
-AUC (área sob a curva ROC) entre 0.82 e 0.85, indicando boa capacidade preditiva.
+AUC (área sob a curva ROC) entre 0.74 e 0.76, indicando boa capacidade preditiva.
 
 O modelo consegue prever com razoável precisão se um candidato tem chance de ser contratado, com base no alinhamento entre perfil da vaga e do candidato.
 
